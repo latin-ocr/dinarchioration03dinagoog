@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dinarchioration03dinagoog_0078.png"; bbox 0 0 892 1296; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 507 84 796 150">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 507 84 796 150">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 84 796 150; baseline 0.016 -4.342"><span class='ocrx_word' id='word_1_1' title='bbox 507 84 796 150; x_wconf 75' lang='grc' dir='ltr'>ΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 658 153 780 173">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 658 153 780 173">
+     <span class='ocr_line' id='line_1_2' title="bbox 658 153 780 173; baseline 0.012 -1.333"><span class='ocrx_word' id='word_1_2' title='bbox 658 153 725 172; x_wconf 87' lang='grc'>0583</span> <span class='ocrx_word' id='word_1_3' title='bbox 739 154 780 173; x_wconf 91' lang='grc'><strong>33</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 89 1086 804 1222">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 89 1086 804 1222">
+     <span class='ocr_line' id='line_1_3' title="bbox 89 1086 804 1222; baseline 0 74"><span class='ocrx_word' id='word_1_4' title='bbox 89 1086 804 1222; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
